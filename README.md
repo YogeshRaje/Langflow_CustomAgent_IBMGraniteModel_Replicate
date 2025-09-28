@@ -22,6 +22,9 @@ Your will get resplonse from IBM grabite-3.2-8b-instruct model using replicate t
 
 Congratulations!
 
+For any query ,feel free to connect at 7887374776 or drop mail at yhraje@gmail.com
+-Yogesh Raje 
+
 
 
 
