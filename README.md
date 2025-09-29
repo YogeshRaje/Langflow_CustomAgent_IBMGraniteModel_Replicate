@@ -2,7 +2,7 @@
 Step1- Install langflow 
 
 
-Step2- Register on Replicate  with your github account and create replicate token.
+Step2- Register on Replicate platfom ( https://replicate.com/signin ) with your github account and create replicate token.
 
 
 
