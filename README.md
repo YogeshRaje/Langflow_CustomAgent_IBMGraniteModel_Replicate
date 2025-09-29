@@ -1,5 +1,7 @@
 # Langflow_CustomAgent_IBMGraniteModel_Replicate
 Step1- Install langflow 
+
+
 Step2- Register on Replicate  with your github account and create replicate token.
 Step3- In lnagflow, Create balnk flow . Add follwoing comonents 
 1)chat input 2) custom agent 2) chat output
