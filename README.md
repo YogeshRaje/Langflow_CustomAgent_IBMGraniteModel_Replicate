@@ -25,6 +25,11 @@ Your will get resplonse from IBM grabite-3.2-8b-instruct model using replicate t
 <img width="957" height="559" alt="image" src="https://github.com/user-attachments/assets/f9e54a24-dc86-4950-a473-85f5dd53ce60" />
 
 
+Get convert json output into line by line output . Replace code of ChatOutput component with the code mention into chatoutput.py file.
+
+
+<img width="954" height="560" alt="image" src="https://github.com/user-attachments/assets/8ef1a66c-05cf-4a4c-a00a-2ccb4de46178" />
+
 Congratulations!
 
 For any query ,feel free to connect at 7887374776 or drop mail at yhraje@gmail.com
